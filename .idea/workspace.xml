@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5800165c-bc8c-4035-93c9-6cbf335b239c" name="Changes" comment="git commit &quot;segundo commit&quot;">
+      <change afterPath="$PROJECT_DIR$/src/casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/operaciones_matematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operaciones_matematicas.java" afterDir="false" />
     </list>
@@ -23,9 +26,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gregory2023&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6d5568d6-e592-483a-99bd-ec957942b55f" />
+        <option name="url" value="https://github.com/gregory2023/curso_de_java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2gSDerE6kMM4cvRJKLJGOv1eC1b" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,6 +52,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Datatypes.executor": "Run",
+    "Application.casting.executor": "Run",
+    "Application.ejercicio_practico_01.executor": "Run",
+    "Application.ejercicio_practico_02.executor": "Run",
     "Application.increments_decrements.executor": "Run",
     "Application.operaciones_matematicas.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -44,6 +64,13 @@
     "onboarding.tips.debug.path": "/Users/lgrego/Library/CloudStorage/OneDrive-UniversidadAlfonsoXelSabio/UAX/programacion/programacion_uax/DataTypes/src/Main.java"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-temurin-20.0.2-8336523bb0d9-3b72a340" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

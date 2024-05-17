@@ -11,7 +11,7 @@ public class operaciones_matematicas {
         // trae el valor de un numero elevado al otro
         System.out.println(Math.pow(x,y));
         //devuelve el numero mayor
-        System.out.println(Math.max(x,y));
+        System.out.println("consolear"+ Math.max(x,y));
         //devuelve la raiz cuadrada
         System.out.println(Math.sqrt(y));
 
