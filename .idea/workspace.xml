@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5800165c-bc8c-4035-93c9-6cbf335b239c" name="Changes" comment="">
+    <list default="true" id="5800165c-bc8c-4035-93c9-6cbf335b239c" name="Changes" comment="git commit &quot;segundo commit&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Datatypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/increments_decrements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/increments_decrements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/operaciones_matematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operaciones_matematicas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +53,20 @@
       <option name="presentableId" value="Default" />
       <updated>1715682186420</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit &quot;segundo commit&quot;">
+      <option name="closed" value="true" />
+      <created>1715768872296</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715768872296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit &quot;segundo commit&quot;&#10;git add .&#10;git pull origin main&#10;git push origin main" />
+    <MESSAGE value="git commit &quot;segundo commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit &quot;segundo commit&quot;" />
   </component>
 </project>

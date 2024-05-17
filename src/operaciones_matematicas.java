@@ -23,9 +23,8 @@ public class operaciones_matematicas {
         // 4 *pi * r^2
         System.out.println("el area de la esfera es " + Math.PI * 4 * Math.pow(radio,y));
 
-        //
-
-
+        //volumen de una esfera
+        System.out.println("el volumen de la esfera es " + (4/3) * Math.PI * Math.pow(radio,3));
 
     }
 }
