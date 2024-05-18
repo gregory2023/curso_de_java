@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5800165c-bc8c-4035-93c9-6cbf335b239c" name="Changes" comment="git commit &quot;segundo commit&quot;">
-      <change afterPath="$PROJECT_DIR$/src/imagenes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dowhilelop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whilelop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,12 +55,14 @@
     "Application.Switch.executor": "Run",
     "Application.casting.executor": "Run",
     "Application.condicionales.executor": "Run",
+    "Application.dowhilelop.executor": "Run",
     "Application.ejercicio_dinosaurio_operadores_logicos.executor": "Run",
     "Application.ejercicio_practico_01.executor": "Run",
     "Application.ejercicio_practico_02.executor": "Run",
     "Application.increments_decrements.executor": "Run",
     "Application.operaciones_matematicas.executor": "Run",
     "Application.operadores_logicos.executor": "Run",
+    "Application.whilelop.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
