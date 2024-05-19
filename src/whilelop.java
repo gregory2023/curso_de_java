@@ -12,11 +12,13 @@ public class whilelop {
 
     }
 
-    public static void ImprimeSOS(){
+    public static void ImprimeSOS() {
         System.out.println(". . . _ _ _ . . .");
+
     }
 
     public  static boolean LamparaOnOff (){
+
         return (Lampara_encendida )?false:true;
     }
 }
