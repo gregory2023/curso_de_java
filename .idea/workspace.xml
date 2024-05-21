@@ -30,10 +30,10 @@
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/ejercicio_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_parctico_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_parctico_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/imagenes.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,9 +85,11 @@
     "Application.dowhilelop.executor": "Run",
     "Application.ejercicio_dinosaurio_operadores_logicos.executor": "Run",
     "Application.ejercicio_parctico_03.executor": "Run",
+    "Application.ejercicio_parctico_05.executor": "Run",
     "Application.ejercicio_practico_01.executor": "Run",
     "Application.ejercicio_practico_02.executor": "Run",
     "Application.ejercicio_practico_04.executor": "Run",
+    "Application.ejercicio_practico_06.executor": "Run",
     "Application.forlop.executor": "Run",
     "Application.increments_decrements.executor": "Run",
     "Application.operaciones_matematicas.executor": "Run",
