@@ -51,8 +51,8 @@ El repositorio está organizado de la siguiente manera:
 1. Clona el repositorio:
 
     ```sh
-    git clone https://github.com/tuusuario/curso-java.git
-    cd curso-java
+    git clone https://github.com/gregory2023/curso_de_java.git
+    cd curso_de_java
     ```
 
 2. Abre el proyecto en tu IDE preferido.
@@ -61,6 +61,6 @@ El repositorio está organizado de la siguiente manera:
 
 ## Autor
 
-**Tu Nombre**
-- [GitHub](https://github.com/tuusuario)
+**Gregory cañon
+- [GitHub](https://github.com/gregory2023
 -
