@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5800165c-bc8c-4035-93c9-6cbf335b239c" name="Changes" comment="git commit &quot;segundo commit&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_01/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_01/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_01/.idea/modules.xml" afterDir="false" />
@@ -30,10 +31,13 @@
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/ejercicio_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_parctico_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cajero_automatico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_parctico_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_parctico_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/imagenes.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,24 +84,31 @@
     "Application.Funciones.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.arrays.executor": "Run",
+    "Application.cajero_automatico.executor": "Run",
     "Application.casting.executor": "Run",
     "Application.condicionales.executor": "Run",
     "Application.dowhilelop.executor": "Run",
     "Application.ejercicio_dinosaurio_operadores_logicos.executor": "Run",
     "Application.ejercicio_parctico_03.executor": "Run",
     "Application.ejercicio_parctico_05.executor": "Run",
+    "Application.ejercicio_parctico_07.executor": "Run",
+    "Application.ejercicio_parctico_10.executor": "Run",
     "Application.ejercicio_practico_01.executor": "Run",
     "Application.ejercicio_practico_02.executor": "Run",
     "Application.ejercicio_practico_04.executor": "Run",
     "Application.ejercicio_practico_06.executor": "Run",
+    "Application.ejercicio_practico_08.executor": "Run",
+    "Application.ejercicio_practico_09.executor": "Run",
     "Application.forlop.executor": "Run",
     "Application.increments_decrements.executor": "Run",
+    "Application.math.executor": "Run",
     "Application.operaciones_matematicas.executor": "Run",
     "Application.operadores_logicos.executor": "Run",
     "Application.whilelop.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/lgrego/Library/CloudStorage/OneDrive-UniversidadAlfonsoXelSabio/UAX/programacion/programacion_uax/JavaSE",
