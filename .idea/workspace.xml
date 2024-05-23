@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5800165c-bc8c-4035-93c9-6cbf335b239c" name="Changes" comment="git commit &quot;segundo commit&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_01/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_01/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_01/.idea/modules.xml" afterDir="false" />
@@ -31,13 +30,14 @@
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/ejercicio_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cajero_automatico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_parctico_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_parctico_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DOwhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios_bucles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ciclo_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cajero_automatico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cajero_automatico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dowhilelop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dowhilelop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/whilelop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whilelop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +80,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DOwhile.executor": "Run",
     "Application.Datatypes.executor": "Run",
+    "Application.Ejercicios_bucles.executor": "Run",
     "Application.Funciones.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.arrays.executor": "Run",
     "Application.cajero_automatico.executor": "Run",
     "Application.casting.executor": "Run",
+    "Application.ciclo_while.executor": "Run",
     "Application.condicionales.executor": "Run",
     "Application.dowhilelop.executor": "Run",
     "Application.ejercicio_dinosaurio_operadores_logicos.executor": "Run",
@@ -99,6 +102,7 @@
     "Application.ejercicio_practico_06.executor": "Run",
     "Application.ejercicio_practico_08.executor": "Run",
     "Application.ejercicio_practico_09.executor": "Run",
+    "Application.ejercicio_practico_11.executor": "Run",
     "Application.forlop.executor": "Run",
     "Application.increments_decrements.executor": "Run",
     "Application.math.executor": "Run",

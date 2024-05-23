@@ -4,7 +4,7 @@ public class whilelop {
     public static void main(String[] args) {
         Lampara_encendida = LamparaOnOff();
          int veces = 0;
-        while (Lampara_encendida && veces <= 10){
+        while (Lampara_encendida  && veces <= 10){
             ImprimeSOS();
             veces++;
         }
@@ -19,6 +19,7 @@ public class whilelop {
 
     public  static boolean LamparaOnOff (){
 
+        //intercambia los estados de la variable ( la variable con estado false )
         return (Lampara_encendida )?false:true;
     }
 }

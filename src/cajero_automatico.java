@@ -1,60 +1,83 @@
 /**
  * cajero automaticon , saldo , ingreso , retiro
+ * utilizamos la libreria javax.swing.JOptionPane para mostrar ventanas emergentes y desabilitamos la liberia java.util.Scanner;
  */
 
-import java.util.Scanner;
+
+import javax.swing.JOptionPane;
 
 public class cajero_automatico    {
     public static void main(String[] args) {
-        Scanner Entrada = new Scanner(System.in);
+
         int saldo = 1000;
-        int ingreso;
-        int retiro;
-        String  nombre ;
-        String contraseña ;
+        int opc = 0;
+        //Los inicializo tipo string porque vamos a utilizar las ventanas amergentes , ya sobre la marcha los cambiamos a tipo int
+        String ingreso1;
+        String retiro1;
+
+        //aqui utilizamos una interfaz para poder guardar los datos del user JOptionPane.showInputDialog
+        String  nombre = JOptionPane.showInputDialog("Ingrese su nombre:"); ;
+        String contraseña = JOptionPane.showInputDialog("Ingrese su contraseña:"); ;
         String contraseña_correcta =  "1234";
 
-        System.out.println("ingrese su nombre ");
-        nombre = Entrada.next();
-        System.out.println("ingrese su contraseña ");
-        contraseña = Entrada.next();
 
 
-        if (contraseña_correcta.equals(contraseña)){
-            System.out.printf(" hola !! " + nombre);
-            int opc ;
-            System.out.println(" ingrese la opcion que desee \n 1. Ver saldo \n 2. Ingresar dinero \n 3. Retirar dinero   ");
-            opc = Entrada.nextInt();
-            switch (opc){
-                case 1 : {
-                    System.out.printf("El saldo actual es " + saldo + " euros ");
-                    break;
+         do {
+
+             if (contraseña_correcta.equals(contraseña)) {
+
+
+                        //mostramos mensajes informativos  con el  JOptionPane.showMessageDialog
+                        JOptionPane.showMessageDialog(null, " hola !! " + nombre);
+
+                        //aqui con la ventana emergente recibimos datos de tipo string pero debemos pasarlos a datos tipo int
+                        String opc0 = JOptionPane.showInputDialog(null, " ingrese la opcion que desee \n 1. Ver saldo \n 2. Ingresar dinero \n 3. Retirar dinero  \n 4.salir " );
+                        //aqui con el operador  cambiamos el tipo de dato ingresado por el user al que querramos, este caso int
+                         opc = Integer.parseInt(opc0);
+
+                        //opc = Entrada.nextInt(); ---> scanner desabilitada
+
+                        switch (opc) {
+                            case 1: {
+                                JOptionPane.showMessageDialog(null, "El saldo actual es " + saldo + " euros ");
+                                break;
+                            }
+                            case 2: {
+                                ingreso1 = JOptionPane.showInputDialog("ingrese el dinero que desea guardar en su cuenta");
+                                int ingreso = Integer.parseInt(ingreso1);
+                                saldo = saldo + ingreso;
+                                JOptionPane.showMessageDialog(null, "Su saldo actual es " + saldo + " euros ");
+                                break;
+                            }
+                            case 3: {
+                                retiro1 = JOptionPane.showInputDialog("Cuanto dinero quiere retirar ?");
+                                int retiro = Integer.parseInt(retiro1);
+                                if (retiro <= saldo) {
+                                    saldo = saldo - retiro;
+                                    JOptionPane.showMessageDialog(null, "Retiro exitoso , su saldo actual es de  " + saldo + " euros ");
+                                } else {
+                                    JOptionPane.showMessageDialog(null, "saldo insuficiente para la transaccion ");
+                                    JOptionPane.showMessageDialog(null, "saldo actual " + saldo + " euros , ---  dinero que quiere retirar " + retiro + " euros ");
+                                }
+                                break;
+                            } case 4:{
+                                JOptionPane.showMessageDialog(null, "hasta pronto ");
+                                break;
+                            }
+                            default: {
+                                JOptionPane.showMessageDialog(null, "opcion equivocada");
+                            }
+                        }
+
+
+                }else {
+                 //ingresa la contraseña hasta que sea la correcta
+                    JOptionPane.showMessageDialog(null,"Contraseña incorrecta señor " + nombre);
+                     contraseña = JOptionPane.showInputDialog("Ingrese su contraseña:");
+
                 }
-                case 2:{
-                    System.out.println("ingrese el dinero que desea guardar en su cuenta");
-                    ingreso = Entrada.nextInt();
-                    saldo=saldo+ingreso;
-                    System.out.printf("Su saldo actual es " + saldo + " euros ");
-                    break;
-                }
-                case 3:{
-                    System.out.println("Cuanto dinero quiere retirar ?");
-                    retiro = Entrada.nextInt();
-                    if(retiro <= saldo){
-                        saldo = saldo-retiro;
-                        System.out.println("Retiro exitoso , su saldo actual es de  " + saldo + " euros ");
-                    }else{
-                        System.out.println("saldo insuficiente para la transaccion ");
-                        System.out.println("saldo actual " + saldo + " euros , ---  dinero que quiere retirar " + retiro + " euros ");
-                    }
-                    break;
-                }
-            }
-        }else {
-            System.out.printf("Contrasela incorrecta señor " + nombre);
-        }
-
-
-
-    }
+         } while (opc != 4);
+     }
 }
+
+

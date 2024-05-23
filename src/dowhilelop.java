@@ -2,29 +2,34 @@ import java.util.Scanner;
 
 public class dowhilelop {
     public static void main(String[] args) {
-        int Respuesta = 0 ;
+
+        Scanner Entrada = new Scanner (System.in);
+        int Respuesta ;
 
         do {
-            System.out.printf("Seleccione la opcion deseada ");
-            System.out.printf("1. movies  ");
-            System.out.printf("2. series ");
-            System.out.printf("0. salir  ");
+            System.out.println("Seleccione la opcion deseada ");
+            System.out.println("1. movies  ");
+            System.out.println("2. series ");
+            System.out.println("0. salir  ");
 
-            Scanner sc = new Scanner (System.in);
-            Respuesta = Integer.valueOf(sc.nextLine());
+            Respuesta = Entrada.nextInt();
+
+
+            //Respuesta = Integer.valueOf(sc.nextLine());
+
 
             switch (Respuesta){
                 case 1:
-                    System.out.printf(" Elegiste peliculas ");
+                    System.out.println(" Elegiste peliculas ");
                     break;
                 case 2:
-                    System.out.printf(" Elegiste series ");
+                    System.out.println(" Elegiste series ");
                     break;
                 case 0:
-                    System.out.printf(" saliste ");
+                    System.out.println(" saliste ");
                     break;
                 default:
-                    System.out.printf(" elige una opcion valida ");
+                    System.out.println(" elige una opcion valida ");
                     break;
             }
 
