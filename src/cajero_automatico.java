@@ -33,7 +33,7 @@ public class cajero_automatico    {
                         //aqui con la ventana emergente recibimos datos de tipo string pero debemos pasarlos a datos tipo int
                         String opc0 = JOptionPane.showInputDialog(null, " ingrese la opcion que desee \n 1. Ver saldo \n 2. Ingresar dinero \n 3. Retirar dinero  \n 4.salir " );
                         //aqui con el operador  cambiamos el tipo de dato ingresado por el user al que querramos, este caso int
-                         opc = Integer.parseInt(opc0);
+                          opc = Integer.parseInt(opc0);
 
                         //opc = Entrada.nextInt(); ---> scanner desabilitada
 

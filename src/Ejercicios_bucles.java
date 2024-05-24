@@ -19,16 +19,18 @@ public class Ejercicios_bucles {
     }
 
 
+   //creamos la funcion para que que nos retorne el valor de un numero al cuadrado
     public static double numero_cuadrado (double n) {
 
-        return  Math.pow(n,n);
+        return  Math.pow(n,2);
     }
 
+    //creamos esta funcion que basicamente hace lo mismo de arriba solo que esta valida el numero y se repite hasta que el numero sea negativo con un while
     public static double leer_numero_negativo (double n){
         Scanner Entrada = new Scanner(System.in);
         double resultado = 0;
 
-        while (n >=1){
+        while (n >=0){
 
             resultado = n * n;
             System.out.println(resultado);

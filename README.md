@@ -1,4 +1,4 @@
-# Curso de Java
+# Curso de Java SE - BASICO
 
 Este repositorio contiene las actividades y ejercicios realizados durante el curso de Java. El objetivo de este repositorio es generar evidencia de que estoy completando el curso y progresando en el aprendizaje de Java.
 

@@ -30,14 +30,20 @@
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/ejercicio_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DOwhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios_bucles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ciclo_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_practico_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio_bucle_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio_bucles_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio_de_bucles_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio_de_bucles_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio_de_bucles_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios_de_bucles_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicios_de_bucles_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Juego_de_adivinanzas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Retos_01_uax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios_practicos_uax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicios_bucles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios_bucles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cajero_automatico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cajero_automatico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dowhilelop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dowhilelop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/whilelop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/whilelop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +75,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -82,8 +91,17 @@
   "keyToString": {
     "Application.DOwhile.executor": "Run",
     "Application.Datatypes.executor": "Run",
+    "Application.Ejercicio_bucle_03.executor": "Run",
+    "Application.Ejercicio_bucles_01.executor": "Run",
+    "Application.Ejercicio_de_bucles_02.executor": "Run",
+    "Application.Ejercicio_de_bucles_04.executor": "Run",
+    "Application.Ejercicio_de_bucles_05.executor": "Run",
     "Application.Ejercicios_bucles.executor": "Run",
+    "Application.Ejercicios_de_bucles_06.executor": "Run",
+    "Application.Ejercicios_de_bucles_07.executor": "Run",
     "Application.Funciones.executor": "Run",
+    "Application.Juego_de_adivinanzas.executor": "Run",
+    "Application.Retos_01_uax.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.arrays.executor": "Run",
     "Application.cajero_automatico.executor": "Run",
@@ -103,6 +121,7 @@
     "Application.ejercicio_practico_08.executor": "Run",
     "Application.ejercicio_practico_09.executor": "Run",
     "Application.ejercicio_practico_11.executor": "Run",
+    "Application.ejercicios_practicos_uax.executor": "Run",
     "Application.forlop.executor": "Run",
     "Application.increments_decrements.executor": "Run",
     "Application.math.executor": "Run",
@@ -158,6 +177,16 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ejercicio_bucle_03.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ejercicios_practicos_uax.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
