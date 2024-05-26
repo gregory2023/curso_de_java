@@ -30,20 +30,12 @@
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/ejercicio_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio_bucle_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio_bucles_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio_de_bucles_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio_de_bucles_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio_de_bucles_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios_de_bucles_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicios_de_bucles_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Juego_de_adivinanzas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Retos_01_uax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicios_practicos_uax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_de_bucles_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_de_bucles_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios_de_bucles_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicios_de_bucles_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reto_02_uax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicios_bucles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicios_bucles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cajero_automatico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cajero_automatico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +101,8 @@
     "Application.ciclo_while.executor": "Run",
     "Application.condicionales.executor": "Run",
     "Application.dowhilelop.executor": "Run",
+    "Application.ejercicio_de_bucles_08.executor": "Run",
+    "Application.ejercicio_de_bucles_10.executor": "Run",
     "Application.ejercicio_dinosaurio_operadores_logicos.executor": "Run",
     "Application.ejercicio_parctico_03.executor": "Run",
     "Application.ejercicio_parctico_05.executor": "Run",
@@ -121,12 +115,15 @@
     "Application.ejercicio_practico_08.executor": "Run",
     "Application.ejercicio_practico_09.executor": "Run",
     "Application.ejercicio_practico_11.executor": "Run",
+    "Application.ejercicios_de_bucles_09.executor": "Run",
+    "Application.ejercicios_de_bucles_11.executor": "Run",
     "Application.ejercicios_practicos_uax.executor": "Run",
     "Application.forlop.executor": "Run",
     "Application.increments_decrements.executor": "Run",
     "Application.math.executor": "Run",
     "Application.operaciones_matematicas.executor": "Run",
     "Application.operadores_logicos.executor": "Run",
+    "Application.reto_02_uax.executor": "Run",
     "Application.whilelop.executor": "Run",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
