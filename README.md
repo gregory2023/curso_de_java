@@ -43,8 +43,8 @@ Para seguir este curso y ejecutar los ejemplos, necesitarás:
 El repositorio está organizado de la siguiente manera:
 
 - `ejercicios/`: Contiene los ejercicios semanales.
-- `proyectos/`: Contiene los proyectos desarrollados a lo largo del curso.
-- `recursos/`: Contiene apuntes, referencias y otros recursos útiles.
+
+
 
 ## Instalación y Uso
 
