@@ -30,13 +30,8 @@
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/ejercicio_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_de_bucles_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_de_bucles_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_de_bucles_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_de_bucles_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio_de_bucle_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios_de_bucles_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios_de_bucles_11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/examen_uf5/ejercicio_01" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -94,6 +89,7 @@
     "Application.Ejercicios_de_bucles_07.executor": "Run",
     "Application.Funciones.executor": "Run",
     "Application.Juego_de_adivinanzas.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Retos_01_uax.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.arrays.executor": "Run",
@@ -102,6 +98,7 @@
     "Application.ciclo_while.executor": "Run",
     "Application.condicionales.executor": "Run",
     "Application.dowhilelop.executor": "Run",
+    "Application.ejercicio_de_bucle_16.executor": "Run",
     "Application.ejercicio_de_bucles_08.executor": "Run",
     "Application.ejercicio_de_bucles_10.executor": "Run",
     "Application.ejercicio_de_bucles_12.executor": "Run",
