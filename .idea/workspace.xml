@@ -30,19 +30,8 @@
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/ejercicio_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Retos_uax/Reto_03_uax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Retos_uax/Reto_04_uax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicios_arreglos_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arreglos/foreach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Retos_uax/reto_02_uax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Retos_uax/reto_02_uax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_07.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +107,7 @@
     "Application.ejercicio_arreglos_03.executor": "Run",
     "Application.ejercicio_arreglos_04.executor": "Run",
     "Application.ejercicio_arreglos_05.executor": "Run",
+    "Application.ejercicio_arreglos_07.executor": "Run",
     "Application.ejercicio_de_bucle_16.executor": "Run",
     "Application.ejercicio_de_bucles_08.executor": "Run",
     "Application.ejercicio_de_bucles_10.executor": "Run",
