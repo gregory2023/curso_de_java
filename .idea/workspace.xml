@@ -30,8 +30,19 @@
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/ejercicio_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejercicio_de_bucle_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Retos_uax/Reto_03_uax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Retos_uax/Reto_04_uax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicios_arreglos_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/foreach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Retos_uax/reto_02_uax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Retos_uax/reto_02_uax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,12 +53,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/examen_uf5/ejercicio_01" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -90,6 +102,8 @@
     "Application.Funciones.executor": "Run",
     "Application.Juego_de_adivinanzas.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Reto_03_uax.executor": "Run",
+    "Application.Reto_uax_04.executor": "Run",
     "Application.Retos_01_uax.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.arrays.executor": "Run",
@@ -98,6 +112,12 @@
     "Application.ciclo_while.executor": "Run",
     "Application.condicionales.executor": "Run",
     "Application.dowhilelop.executor": "Run",
+    "Application.ejercicio_arreglos.executor": "Run",
+    "Application.ejercicio_arreglos_01.executor": "Run",
+    "Application.ejercicio_arreglos_02.executor": "Run",
+    "Application.ejercicio_arreglos_03.executor": "Run",
+    "Application.ejercicio_arreglos_04.executor": "Run",
+    "Application.ejercicio_arreglos_05.executor": "Run",
     "Application.ejercicio_de_bucle_16.executor": "Run",
     "Application.ejercicio_de_bucles_08.executor": "Run",
     "Application.ejercicio_de_bucles_10.executor": "Run",
@@ -117,9 +137,11 @@
     "Application.ejercicio_practico_08.executor": "Run",
     "Application.ejercicio_practico_09.executor": "Run",
     "Application.ejercicio_practico_11.executor": "Run",
+    "Application.ejercicios_arreglos_06.executor": "Run",
     "Application.ejercicios_de_bucles_09.executor": "Run",
     "Application.ejercicios_de_bucles_11.executor": "Run",
     "Application.ejercicios_practicos_uax.executor": "Run",
+    "Application.foreach.executor": "Run",
     "Application.forlop.executor": "Run",
     "Application.increments_decrements.executor": "Run",
     "Application.math.executor": "Run",
@@ -176,11 +198,6 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ejercicio_bucle_03.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/ejercicios_practicos_uax.java</url>
           <line>47</line>
