@@ -1,3 +1,5 @@
+package Introduccion;
+
 public class actualizarvariables {
     public static void main (String[]args){
         int salario = 1000;

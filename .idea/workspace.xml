@@ -30,8 +30,30 @@
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/ejercicio_2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/examen_uf5/ejercicio_2/src/empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Retos_uax/Reto_uax_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/Ejercicio_arreglos_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arreglos/ejercicio_arreglos_ordenamiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrices/ejercicio_matrices_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrices/ejercicio_matrices_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrices/ejercicio_matrices_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrices/ejercicio_uno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Datatypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Funciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Switch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actualizarvariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Introduccion/actualizarvariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/casting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/condicionales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios_practicos_uax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forlop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/increments_decrements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operaciones_matematicas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operadores_logicos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variables.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +102,7 @@
   "keyToString": {
     "Application.DOwhile.executor": "Run",
     "Application.Datatypes.executor": "Run",
+    "Application.Ejercicio_arreglos_08.executor": "Run",
     "Application.Ejercicio_bucle_03.executor": "Run",
     "Application.Ejercicio_bucles_01.executor": "Run",
     "Application.Ejercicio_de_bucles_02.executor": "Run",
@@ -109,6 +132,9 @@
     "Application.ejercicio_arreglos_04.executor": "Run",
     "Application.ejercicio_arreglos_05.executor": "Run",
     "Application.ejercicio_arreglos_07.executor": "Run",
+    "Application.ejercicio_arreglos_09.executor": "Run",
+    "Application.ejercicio_arreglos_10.executor": "Run",
+    "Application.ejercicio_arreglos_ordenamiento.executor": "Run",
     "Application.ejercicio_de_bucle_16.executor": "Run",
     "Application.ejercicio_de_bucles_08.executor": "Run",
     "Application.ejercicio_de_bucles_10.executor": "Run",
@@ -117,6 +143,9 @@
     "Application.ejercicio_de_bucles_14.executor": "Run",
     "Application.ejercicio_de_bucles_15.executor": "Run",
     "Application.ejercicio_dinosaurio_operadores_logicos.executor": "Run",
+    "Application.ejercicio_matrices_01.executor": "Run",
+    "Application.ejercicio_matrices_02.executor": "Run",
+    "Application.ejercicio_matrices_03.executor": "Run",
     "Application.ejercicio_parctico_03.executor": "Run",
     "Application.ejercicio_parctico_05.executor": "Run",
     "Application.ejercicio_parctico_07.executor": "Run",
@@ -128,6 +157,7 @@
     "Application.ejercicio_practico_08.executor": "Run",
     "Application.ejercicio_practico_09.executor": "Run",
     "Application.ejercicio_practico_11.executor": "Run",
+    "Application.ejercicio_uno.executor": "Run",
     "Application.ejercicios_arreglos_06.executor": "Run",
     "Application.ejercicios_de_bucles_09.executor": "Run",
     "Application.ejercicios_de_bucles_11.executor": "Run",
@@ -189,11 +219,6 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ejercicios_practicos_uax.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
